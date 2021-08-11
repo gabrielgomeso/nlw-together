@@ -9,6 +9,6 @@ A simple React Native app using TypeScript
 This little project was created at NLW-Together, an online event promoted by Rocketseat. I've taken some of it's classes to remember how to program in React Native with TypeScript.
 
 # Tech
-React Native
-TypeScript
-Expo
+- React Native
+- TypeScript
+- Expo
